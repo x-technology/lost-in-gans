@@ -12,3 +12,8 @@ In this talk we will discuss some of them:
 
 We will also cover an image-filtering technique Deep Dream which produces hallucination-like visuals and play with images of pandas and axolotls.
 How to pick the right generative model for a particular use-case, what are their pros and cons and how easy to get started.
+
+## Links
+
+- https://www.tensorflow.org/tutorials/generative/deepdream
+- https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb
