@@ -16,7 +16,7 @@ We will also cover an image-filtering technique Deep Dream which produces halluc
 How to pick the right generative model for a particular use-case, what are their pros and cons and how easy to get started.
 
 ## Links
-
+- Presentation: https://docs.google.com/presentation/d/1lLpKrpkJgXTbi2QT_jCNXkKyumwRm-XVMR8brntnJzk/edit?usp=sharing
 - https://www.tensorflow.org/tutorials/generative/deepdream
 - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb
 - https://affinelayer.com/pixsrv/
