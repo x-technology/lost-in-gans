@@ -20,3 +20,9 @@ How to pick the right generative model for a particular use-case, what are their
 - https://www.tensorflow.org/tutorials/generative/deepdream
 - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb
 - https://affinelayer.com/pixsrv/
+
+## Assets
+
+- https://drive.google.com/drive/folders/10J7JlN1rGSUCCGjTY5Gj4yrFT6a7xaEC
+- https://drive.google.com/drive/folders/1ptwPMFT5IgezDD8AlNMVEE4DoA2S6Olh
+- https://drive.google.com/drive/folders/1r4LNsnvBDHcF9kjF2vRzAxAZimMCUai0
